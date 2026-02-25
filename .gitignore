@@ -1,0 +1,23 @@
+# Data & model
+dataset/
+models/
+*.pt
+*.bin
+*.h5
+*.ckpt
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# env
+.env
+.venv
+*.mp4
